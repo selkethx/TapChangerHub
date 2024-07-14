@@ -17,4 +17,4 @@ TapChanger Hub based in the external filter Voron original design and the idea o
 - VoronDesign project [VoronDesign](https://github.com/VoronDesign)
 - Tapchanger project [TapChanger](https://github.com/viesturz/tapchanger)
 - Dragon Burner from [chirpy2605](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner).
-- All members of the Voron Toolchanger spanish Telegram channel, where this idea was born.
+- All members of the Voron Toolchanger spanish Telegram channel, where this idea was born. Especially[fanchunfa](https://github.com/fanchunfa) whose idea motivated this project and without his help I would no have ben able to make my tapchanger.
