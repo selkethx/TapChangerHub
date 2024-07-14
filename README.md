@@ -7,7 +7,7 @@ TapChanger Hub based in the external filter Voron original design and the idea o
 
 # BOM
 - X2 M3x10 buttonhead screws. [iso7380](https://es.aliexpress.com/item/32644833911.htm)
-- X4 M3 heatset inserts. [Heat insert](https://es.aliexpress.com/item/4000232858343.html=
+- X4 M3 heatset inserts. [Heatinserts](https://es.aliexpress.com/item/4000232858343.html=
 - X5 Zip ties 705 x 7.5mm 
 - X5 Bowden PTFE tube 3mmx4mm. [PTFE Tube](https://es.aliexpress.com/item/1005001408141263)
 - ABS Filament
